@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LeandroVMaciel
+- 👀 I’m interested in work in the field of web, software and application development
+- 🌱 I’m currently learning web and application development
+- 💞️ I’m looking to collaborate on JAVA and JavaScript based projects
+- 📫 How to reach me, send e-mail to leandrovmaciel@gmail.com
