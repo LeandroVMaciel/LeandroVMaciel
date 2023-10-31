@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LeandroVMaciel
-- 👀 I’m interested in work in the field of web, software and application development
-- 🌱 I’m currently learning web and application development
-- 💞️ I’m looking to collaborate on JAVA and JavaScript based projects
-- 📫 How to reach me, send e-mail to leandrovmaciel@gmail.com
+- 👋 Hello, I'm @LeandroVMaciel
+- 👀 I am interested in working in the area of web, software and application development
+- 🌱 I am currently learning web apps and IOS and Android apps
+- 💞️ I intend to collaborate on projects based on React Native and React JS
+- 📫 How to contact me, send email to leandrovmaciel@gmail.com or whatsapp +55 51 985356398
